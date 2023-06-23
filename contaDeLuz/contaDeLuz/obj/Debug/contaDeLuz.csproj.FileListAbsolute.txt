@@ -1,0 +1,8 @@
+C:\Users\Trabalho\Projetos\contaDeLuz\contaDeLuz\bin\Debug\contaDeLuz.exe.config
+C:\Users\Trabalho\Projetos\contaDeLuz\contaDeLuz\bin\Debug\contaDeLuz.exe
+C:\Users\Trabalho\Projetos\contaDeLuz\contaDeLuz\bin\Debug\contaDeLuz.pdb
+C:\Users\Trabalho\Projetos\contaDeLuz\contaDeLuz\obj\Debug\contaDeLuz.csproj.AssemblyReference.cache
+C:\Users\Trabalho\Projetos\contaDeLuz\contaDeLuz\obj\Debug\contaDeLuz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trabalho\Projetos\contaDeLuz\contaDeLuz\obj\Debug\contaDeLuz.csproj.CoreCompileInputs.cache
+C:\Users\Trabalho\Projetos\contaDeLuz\contaDeLuz\obj\Debug\contaDeLuz.exe
+C:\Users\Trabalho\Projetos\contaDeLuz\contaDeLuz\obj\Debug\contaDeLuz.pdb
