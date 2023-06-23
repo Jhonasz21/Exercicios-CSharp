@@ -1,0 +1,8 @@
+C:\Users\Trabalho\Projetos\arrayMedia\arrayMedia\bin\Debug\arrayMedia.exe.config
+C:\Users\Trabalho\Projetos\arrayMedia\arrayMedia\bin\Debug\arrayMedia.exe
+C:\Users\Trabalho\Projetos\arrayMedia\arrayMedia\bin\Debug\arrayMedia.pdb
+C:\Users\Trabalho\Projetos\arrayMedia\arrayMedia\obj\Debug\arrayMedia.csproj.AssemblyReference.cache
+C:\Users\Trabalho\Projetos\arrayMedia\arrayMedia\obj\Debug\arrayMedia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trabalho\Projetos\arrayMedia\arrayMedia\obj\Debug\arrayMedia.csproj.CoreCompileInputs.cache
+C:\Users\Trabalho\Projetos\arrayMedia\arrayMedia\obj\Debug\arrayMedia.exe
+C:\Users\Trabalho\Projetos\arrayMedia\arrayMedia\obj\Debug\arrayMedia.pdb
