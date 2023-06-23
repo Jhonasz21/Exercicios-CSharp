@@ -1,0 +1,8 @@
+C:\Users\Trabalho\Projetos\numerosInteiro\numerosInteiro\bin\Debug\numerosInteiro.exe.config
+C:\Users\Trabalho\Projetos\numerosInteiro\numerosInteiro\bin\Debug\numerosInteiro.exe
+C:\Users\Trabalho\Projetos\numerosInteiro\numerosInteiro\bin\Debug\numerosInteiro.pdb
+C:\Users\Trabalho\Projetos\numerosInteiro\numerosInteiro\obj\Debug\numerosInteiro.csproj.AssemblyReference.cache
+C:\Users\Trabalho\Projetos\numerosInteiro\numerosInteiro\obj\Debug\numerosInteiro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trabalho\Projetos\numerosInteiro\numerosInteiro\obj\Debug\numerosInteiro.csproj.CoreCompileInputs.cache
+C:\Users\Trabalho\Projetos\numerosInteiro\numerosInteiro\obj\Debug\numerosInteiro.exe
+C:\Users\Trabalho\Projetos\numerosInteiro\numerosInteiro\obj\Debug\numerosInteiro.pdb
