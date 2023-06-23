@@ -1,0 +1,8 @@
+C:\Users\Trabalho\Projetos\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.AssemblyReference.cache
+C:\Users\Trabalho\Projetos\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trabalho\Projetos\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Trabalho\Projetos\Triangulo\Triangulo\bin\Debug\Triangulo.exe.config
+C:\Users\Trabalho\Projetos\Triangulo\Triangulo\bin\Debug\Triangulo.exe
+C:\Users\Trabalho\Projetos\Triangulo\Triangulo\bin\Debug\Triangulo.pdb
+C:\Users\Trabalho\Projetos\Triangulo\Triangulo\obj\Debug\Triangulo.exe
+C:\Users\Trabalho\Projetos\Triangulo\Triangulo\obj\Debug\Triangulo.pdb
