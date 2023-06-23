@@ -1,0 +1,8 @@
+C:\Users\Trabalho\Projetos\soma2Numeros\soma2Numeros\bin\Debug\soma2Numeros.exe.config
+C:\Users\Trabalho\Projetos\soma2Numeros\soma2Numeros\bin\Debug\soma2Numeros.exe
+C:\Users\Trabalho\Projetos\soma2Numeros\soma2Numeros\bin\Debug\soma2Numeros.pdb
+C:\Users\Trabalho\Projetos\soma2Numeros\soma2Numeros\obj\Debug\soma2Numeros.csproj.AssemblyReference.cache
+C:\Users\Trabalho\Projetos\soma2Numeros\soma2Numeros\obj\Debug\soma2Numeros.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trabalho\Projetos\soma2Numeros\soma2Numeros\obj\Debug\soma2Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Trabalho\Projetos\soma2Numeros\soma2Numeros\obj\Debug\soma2Numeros.exe
+C:\Users\Trabalho\Projetos\soma2Numeros\soma2Numeros\obj\Debug\soma2Numeros.pdb
