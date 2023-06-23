@@ -1,0 +1,8 @@
+C:\Users\Trabalho\Projetos\ternario\ternario\bin\Debug\ternario.exe.config
+C:\Users\Trabalho\Projetos\ternario\ternario\bin\Debug\ternario.exe
+C:\Users\Trabalho\Projetos\ternario\ternario\bin\Debug\ternario.pdb
+C:\Users\Trabalho\Projetos\ternario\ternario\obj\Debug\ternario.csproj.AssemblyReference.cache
+C:\Users\Trabalho\Projetos\ternario\ternario\obj\Debug\ternario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trabalho\Projetos\ternario\ternario\obj\Debug\ternario.csproj.CoreCompileInputs.cache
+C:\Users\Trabalho\Projetos\ternario\ternario\obj\Debug\ternario.exe
+C:\Users\Trabalho\Projetos\ternario\ternario\obj\Debug\ternario.pdb
