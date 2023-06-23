@@ -1,0 +1,8 @@
+C:\Users\Trabalho\Projetos\cubo\cubo\bin\Debug\cubo.exe.config
+C:\Users\Trabalho\Projetos\cubo\cubo\bin\Debug\cubo.exe
+C:\Users\Trabalho\Projetos\cubo\cubo\bin\Debug\cubo.pdb
+C:\Users\Trabalho\Projetos\cubo\cubo\obj\Debug\cubo.csproj.AssemblyReference.cache
+C:\Users\Trabalho\Projetos\cubo\cubo\obj\Debug\cubo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trabalho\Projetos\cubo\cubo\obj\Debug\cubo.csproj.CoreCompileInputs.cache
+C:\Users\Trabalho\Projetos\cubo\cubo\obj\Debug\cubo.exe
+C:\Users\Trabalho\Projetos\cubo\cubo\obj\Debug\cubo.pdb
