@@ -1,0 +1,8 @@
+C:\Users\Trabalho\Projetos\tam5nomesCarros\tam5nomesCarros\bin\Debug\tam5nomesCarros.exe.config
+C:\Users\Trabalho\Projetos\tam5nomesCarros\tam5nomesCarros\bin\Debug\tam5nomesCarros.exe
+C:\Users\Trabalho\Projetos\tam5nomesCarros\tam5nomesCarros\bin\Debug\tam5nomesCarros.pdb
+C:\Users\Trabalho\Projetos\tam5nomesCarros\tam5nomesCarros\obj\Debug\tam5nomesCarros.csproj.AssemblyReference.cache
+C:\Users\Trabalho\Projetos\tam5nomesCarros\tam5nomesCarros\obj\Debug\tam5nomesCarros.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trabalho\Projetos\tam5nomesCarros\tam5nomesCarros\obj\Debug\tam5nomesCarros.csproj.CoreCompileInputs.cache
+C:\Users\Trabalho\Projetos\tam5nomesCarros\tam5nomesCarros\obj\Debug\tam5nomesCarros.exe
+C:\Users\Trabalho\Projetos\tam5nomesCarros\tam5nomesCarros\obj\Debug\tam5nomesCarros.pdb
