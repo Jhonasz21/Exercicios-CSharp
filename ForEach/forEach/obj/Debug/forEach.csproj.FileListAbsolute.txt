@@ -1,0 +1,8 @@
+C:\Users\Trabalho\Projetos\forEach\forEach\bin\Debug\forEach.exe.config
+C:\Users\Trabalho\Projetos\forEach\forEach\bin\Debug\forEach.exe
+C:\Users\Trabalho\Projetos\forEach\forEach\bin\Debug\forEach.pdb
+C:\Users\Trabalho\Projetos\forEach\forEach\obj\Debug\forEach.csproj.AssemblyReference.cache
+C:\Users\Trabalho\Projetos\forEach\forEach\obj\Debug\forEach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trabalho\Projetos\forEach\forEach\obj\Debug\forEach.csproj.CoreCompileInputs.cache
+C:\Users\Trabalho\Projetos\forEach\forEach\obj\Debug\forEach.exe
+C:\Users\Trabalho\Projetos\forEach\forEach\obj\Debug\forEach.pdb
