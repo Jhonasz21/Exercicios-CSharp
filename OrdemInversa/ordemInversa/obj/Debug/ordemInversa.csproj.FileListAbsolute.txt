@@ -1,0 +1,8 @@
+C:\Users\Trabalho\Projetos\ordemInversa\ordemInversa\bin\Debug\ordemInversa.exe.config
+C:\Users\Trabalho\Projetos\ordemInversa\ordemInversa\bin\Debug\ordemInversa.exe
+C:\Users\Trabalho\Projetos\ordemInversa\ordemInversa\bin\Debug\ordemInversa.pdb
+C:\Users\Trabalho\Projetos\ordemInversa\ordemInversa\obj\Debug\ordemInversa.csproj.AssemblyReference.cache
+C:\Users\Trabalho\Projetos\ordemInversa\ordemInversa\obj\Debug\ordemInversa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trabalho\Projetos\ordemInversa\ordemInversa\obj\Debug\ordemInversa.csproj.CoreCompileInputs.cache
+C:\Users\Trabalho\Projetos\ordemInversa\ordemInversa\obj\Debug\ordemInversa.exe
+C:\Users\Trabalho\Projetos\ordemInversa\ordemInversa\obj\Debug\ordemInversa.pdb
