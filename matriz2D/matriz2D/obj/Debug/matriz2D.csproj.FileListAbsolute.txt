@@ -1,0 +1,8 @@
+C:\Users\Trabalho\Projetos\matriz2D\matriz2D\bin\Debug\matriz2D.exe.config
+C:\Users\Trabalho\Projetos\matriz2D\matriz2D\bin\Debug\matriz2D.exe
+C:\Users\Trabalho\Projetos\matriz2D\matriz2D\bin\Debug\matriz2D.pdb
+C:\Users\Trabalho\Projetos\matriz2D\matriz2D\obj\Debug\matriz2D.csproj.AssemblyReference.cache
+C:\Users\Trabalho\Projetos\matriz2D\matriz2D\obj\Debug\matriz2D.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trabalho\Projetos\matriz2D\matriz2D\obj\Debug\matriz2D.csproj.CoreCompileInputs.cache
+C:\Users\Trabalho\Projetos\matriz2D\matriz2D\obj\Debug\matriz2D.exe
+C:\Users\Trabalho\Projetos\matriz2D\matriz2D\obj\Debug\matriz2D.pdb
