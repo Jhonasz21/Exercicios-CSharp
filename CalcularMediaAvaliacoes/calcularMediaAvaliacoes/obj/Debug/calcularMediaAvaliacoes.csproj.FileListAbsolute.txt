@@ -1,0 +1,8 @@
+C:\Users\Trabalho\Projetos\calcularMediaAvaliacoes\calcularMediaAvaliacoes\bin\Debug\calcularMediaAvaliacoes.exe.config
+C:\Users\Trabalho\Projetos\calcularMediaAvaliacoes\calcularMediaAvaliacoes\bin\Debug\calcularMediaAvaliacoes.exe
+C:\Users\Trabalho\Projetos\calcularMediaAvaliacoes\calcularMediaAvaliacoes\bin\Debug\calcularMediaAvaliacoes.pdb
+C:\Users\Trabalho\Projetos\calcularMediaAvaliacoes\calcularMediaAvaliacoes\obj\Debug\calcularMediaAvaliacoes.csproj.AssemblyReference.cache
+C:\Users\Trabalho\Projetos\calcularMediaAvaliacoes\calcularMediaAvaliacoes\obj\Debug\calcularMediaAvaliacoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trabalho\Projetos\calcularMediaAvaliacoes\calcularMediaAvaliacoes\obj\Debug\calcularMediaAvaliacoes.csproj.CoreCompileInputs.cache
+C:\Users\Trabalho\Projetos\calcularMediaAvaliacoes\calcularMediaAvaliacoes\obj\Debug\calcularMediaAvaliacoes.exe
+C:\Users\Trabalho\Projetos\calcularMediaAvaliacoes\calcularMediaAvaliacoes\obj\Debug\calcularMediaAvaliacoes.pdb
