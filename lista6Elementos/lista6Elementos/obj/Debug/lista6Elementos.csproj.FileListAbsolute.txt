@@ -1,0 +1,8 @@
+C:\Users\Trabalho\Projetos\lista6Elementos\lista6Elementos\bin\Debug\lista6Elementos.exe.config
+C:\Users\Trabalho\Projetos\lista6Elementos\lista6Elementos\bin\Debug\lista6Elementos.exe
+C:\Users\Trabalho\Projetos\lista6Elementos\lista6Elementos\bin\Debug\lista6Elementos.pdb
+C:\Users\Trabalho\Projetos\lista6Elementos\lista6Elementos\obj\Debug\lista6Elementos.csproj.AssemblyReference.cache
+C:\Users\Trabalho\Projetos\lista6Elementos\lista6Elementos\obj\Debug\lista6Elementos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trabalho\Projetos\lista6Elementos\lista6Elementos\obj\Debug\lista6Elementos.csproj.CoreCompileInputs.cache
+C:\Users\Trabalho\Projetos\lista6Elementos\lista6Elementos\obj\Debug\lista6Elementos.exe
+C:\Users\Trabalho\Projetos\lista6Elementos\lista6Elementos\obj\Debug\lista6Elementos.pdb
