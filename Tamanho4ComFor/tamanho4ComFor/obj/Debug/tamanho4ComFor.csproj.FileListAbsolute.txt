@@ -1,0 +1,8 @@
+C:\Users\Trabalho\Projetos\tamanho4ComFor\tamanho4ComFor\bin\Debug\tamanho4ComFor.exe.config
+C:\Users\Trabalho\Projetos\tamanho4ComFor\tamanho4ComFor\bin\Debug\tamanho4ComFor.exe
+C:\Users\Trabalho\Projetos\tamanho4ComFor\tamanho4ComFor\bin\Debug\tamanho4ComFor.pdb
+C:\Users\Trabalho\Projetos\tamanho4ComFor\tamanho4ComFor\obj\Debug\tamanho4ComFor.csproj.AssemblyReference.cache
+C:\Users\Trabalho\Projetos\tamanho4ComFor\tamanho4ComFor\obj\Debug\tamanho4ComFor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trabalho\Projetos\tamanho4ComFor\tamanho4ComFor\obj\Debug\tamanho4ComFor.csproj.CoreCompileInputs.cache
+C:\Users\Trabalho\Projetos\tamanho4ComFor\tamanho4ComFor\obj\Debug\tamanho4ComFor.exe
+C:\Users\Trabalho\Projetos\tamanho4ComFor\tamanho4ComFor\obj\Debug\tamanho4ComFor.pdb
