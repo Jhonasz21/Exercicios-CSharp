@@ -1,0 +1,8 @@
+C:\Users\Trabalho\Projetos\nome5Amigos\nome5Amigos\bin\Debug\nome5Amigos.exe.config
+C:\Users\Trabalho\Projetos\nome5Amigos\nome5Amigos\bin\Debug\nome5Amigos.exe
+C:\Users\Trabalho\Projetos\nome5Amigos\nome5Amigos\bin\Debug\nome5Amigos.pdb
+C:\Users\Trabalho\Projetos\nome5Amigos\nome5Amigos\obj\Debug\nome5Amigos.csproj.AssemblyReference.cache
+C:\Users\Trabalho\Projetos\nome5Amigos\nome5Amigos\obj\Debug\nome5Amigos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trabalho\Projetos\nome5Amigos\nome5Amigos\obj\Debug\nome5Amigos.csproj.CoreCompileInputs.cache
+C:\Users\Trabalho\Projetos\nome5Amigos\nome5Amigos\obj\Debug\nome5Amigos.exe
+C:\Users\Trabalho\Projetos\nome5Amigos\nome5Amigos\obj\Debug\nome5Amigos.pdb
