@@ -1,0 +1,8 @@
+C:\Users\Trabalho\Projetos\multiplicaoMatriz02\multiplicaoMatriz02\bin\Debug\multiplicaoMatriz02.exe.config
+C:\Users\Trabalho\Projetos\multiplicaoMatriz02\multiplicaoMatriz02\bin\Debug\multiplicaoMatriz02.exe
+C:\Users\Trabalho\Projetos\multiplicaoMatriz02\multiplicaoMatriz02\bin\Debug\multiplicaoMatriz02.pdb
+C:\Users\Trabalho\Projetos\multiplicaoMatriz02\multiplicaoMatriz02\obj\Debug\multiplicaoMatriz02.csproj.AssemblyReference.cache
+C:\Users\Trabalho\Projetos\multiplicaoMatriz02\multiplicaoMatriz02\obj\Debug\multiplicaoMatriz02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trabalho\Projetos\multiplicaoMatriz02\multiplicaoMatriz02\obj\Debug\multiplicaoMatriz02.csproj.CoreCompileInputs.cache
+C:\Users\Trabalho\Projetos\multiplicaoMatriz02\multiplicaoMatriz02\obj\Debug\multiplicaoMatriz02.exe
+C:\Users\Trabalho\Projetos\multiplicaoMatriz02\multiplicaoMatriz02\obj\Debug\multiplicaoMatriz02.pdb
