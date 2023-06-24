@@ -1,0 +1,8 @@
+C:\Users\Trabalho\Projetos\multiDuasMatrizes\multiDuasMatrizes\obj\Debug\multiDuasMatrizes.csproj.AssemblyReference.cache
+C:\Users\Trabalho\Projetos\multiDuasMatrizes\multiDuasMatrizes\obj\Debug\multiDuasMatrizes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trabalho\Projetos\multiDuasMatrizes\multiDuasMatrizes\obj\Debug\multiDuasMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\Trabalho\Projetos\multiDuasMatrizes\multiDuasMatrizes\bin\Debug\multiDuasMatrizes.exe.config
+C:\Users\Trabalho\Projetos\multiDuasMatrizes\multiDuasMatrizes\bin\Debug\multiDuasMatrizes.exe
+C:\Users\Trabalho\Projetos\multiDuasMatrizes\multiDuasMatrizes\bin\Debug\multiDuasMatrizes.pdb
+C:\Users\Trabalho\Projetos\multiDuasMatrizes\multiDuasMatrizes\obj\Debug\multiDuasMatrizes.exe
+C:\Users\Trabalho\Projetos\multiDuasMatrizes\multiDuasMatrizes\obj\Debug\multiDuasMatrizes.pdb
